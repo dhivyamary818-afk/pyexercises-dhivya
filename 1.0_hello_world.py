@@ -22,10 +22,21 @@ DELIVERABLE
     This file, with your comments and your code.
 """
 
-# 1. In:
-# 2. Process:
-# 3. Out:
-# 4. My message, and why:
+# 1. In:my name in string data type
+# 2. Process:the program repeats the print 5 times
+# 3. Out:five statements numbered 
+# 4. My message, and why:learning how to print in python 
 
 
 # Your code below
+print("1. Dhivya")
+print("2. Dhivya")
+print("3. Dhivya")
+print("4. Dhivya")
+print("5. Dhivya")
+
+
+print("Printing with for loop")
+
+for number in range(1,6):
+    print(number, "Dhivya")
